@@ -8,8 +8,8 @@ I'm a 5th semester Computer Science Engineering student with a passion for data 
 - **Programming Languages:** Python 🐍, C++ 💻
 - **Web Development:** HTML, CSS 🌐
 - **Libraries & Frameworks:** Tkinter, Numpy, Pandas, Matplotlib, Seaborn 📊
-- **Tools:** Advanced Excel 📈, Power BI 📊
-- **Interests:** Data Analysis, Machine Learning, Web Development, Financial Independence 💡
+- **Database Management Tools:** SQL 🗄️, Advanced Excel 📈, Power BI 📊
+- **Interests:** Data Analysis 📈, Machine Learning 🤖, Web Development 🌐, Financial Independence 💡
 
 **Projects**
 Here are some of the projects I've worked on:

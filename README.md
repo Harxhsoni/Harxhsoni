@@ -1,8 +1,8 @@
-**Hi there, I'm Harsh Soni** 👋
+**I'm Harsh Soni** 👋
 
 **About Me**
 
-I'm a 5th semester Computer Science Engineering student with a passion for data analysis and a strong foundation in Python, Tkinter, Numpy, Pandas, Matplotlib, Seaborn, and Advanced Excel. I'm focused on self-improvement and financial independence, and I'm eager to apply my skills in a professional setting.
+I'm a 6th semester Computer Science Engineering student with a passion for data analysis and a strong foundation in Python, Tkinter, Numpy, Pandas, Matplotlib, Seaborn, and Advanced Excel. I'm focused on self-improvement and financial independence, and I'm eager to apply my skills in a professional setting.
 
 **Skills**
 - **Programming Languages:** Python 🐍, C++ 💻
